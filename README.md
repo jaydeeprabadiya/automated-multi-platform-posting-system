@@ -87,17 +87,17 @@ uvicorn app.main:app --host 0.0.0.0 --port 4000
 
 The API will be available at:
 
-http://127.0.0.1:4000
+http://localhost:4000
 
 API Documentation
 
 Interactive API documentation is available at:
 
-http://127.0.0.1:4000/docs
+http://localhost:4000/docs
 
 Alternative documentation:
 
-http://127.0.0.1:4000/redoc
+http://localhost:4000/redoc
 
 API Endpoints
 
