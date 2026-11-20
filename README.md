@@ -83,7 +83,7 @@ Running the Application
 
 Start the FastAPI server:
 
-uvicorn app.main:app --reload
+uvicorn app.main:app --host 0.0.0.0 --port 4000
 
 The API will be available at:
 
