@@ -87,17 +87,17 @@ uvicorn app.main:app --reload
 
 The API will be available at:
 
-http://127.0.0.1:8000
+http://127.0.0.1:4000
 
 API Documentation
 
 Interactive API documentation is available at:
 
-http://127.0.0.1:8000/docs
+http://127.0.0.1:4000/docs
 
 Alternative documentation:
 
-http://127.0.0.1:8000/redoc
+http://127.0.0.1:4000/redoc
 
 API Endpoints
 
@@ -168,3 +168,5 @@ Platform credentials are required for the corresponding integrations.
 Disclaimer
 
 Actual publishing depends on valid platform credentials, API permissions, platform availability, rate limits, and platform-specific restrictions.
+
+
